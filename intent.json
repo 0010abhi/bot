@@ -1,0 +1,7 @@
+{
+    "grettings": ["HI", "HELLO", "GOOD MORNING", "GOOD EVENING", "GOOD AFTERNOON", "GOOD NIGHT", "BYE"],
+    "changeConv": ["STOP", "CANCEL", "HELP"],
+    "bagTracing": ["BAGTAG", "BAG", "NUMBER", "PNR", "PNR NUMBER", "PASSENGER NUMBER", "BAG NUMBER", "BAG TAG NUMBER", "BAG TAG"],
+    "lostBagTracing": ["LOSTBAG", "LOSTBAGID", "LOSTBAGSTATUS", "LOST BAG STATUS"]
+
+}
